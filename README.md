@@ -1,6 +1,6 @@
 # AnthonyMero
 <p>hello everyone or how a programmer would say "hello world", My name is Anthony Mero I live in Quito-Ecuador I'm a web developer but I like learn other technologies, I only a fanatic for programming and the technology I love learning big of programming world, some repositories tath there are in my git-hub are a sample projects and these show my hablities and Knowledge in some branch of programming, i like say if you can imagine , you can will  programing it.
-if you want contact me, you can call this number: <strong>+593996433119</strong> </p>
+if you want contact me, you can call this email: <strong>meroanthony6@gmail.com</strong> </p>
 <br>
 Skills: <br>
 <img src="https://camo.githubusercontent.com/4defbd057be7f9b9b72692e87060e4d9e912372695002a0159b9cac042da3677/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=101010" style="max-width:100%;">
